@@ -1,0 +1,39 @@
+div#header-container
+    header.wrapper
+      nav
+        ul
+          li
+            a(href='#') Some
+          li
+            a(href='#') navigation
+          li
+            a(href='#') links
+  div#main.wrapper(role='main')
+    aside
+      p Welcome to #{title}
+    article
+      header
+        h2 Welcome to #{title}
+        p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.
+        h3 A smaller heading
+      footer
+        p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.
+        h3 A smaller heading
+  div#footer-container      
+    footer.wrapper
+      h3 A nice footer
+      
+script(src='//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js')
+script window.jQuery || document.write('<script src="js/libs/jquery-1.6.2.min.js"><\\/script>')
+script(defer, src='js/plugins.js')
+script(defer, src='js/script.js')
+script
+  var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview'],['_trackPageLoadTime']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));  
+//if lt IE 7
+  script(src='//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js', defer)
+  script(defer) window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})
+      
+     
