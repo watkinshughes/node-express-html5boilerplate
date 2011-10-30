@@ -2,10 +2,6 @@
 exports.index = function(req, res){
   res.render('index', { title: 'Express' })
 };
-/* GET sample page. */
-exports.sample = function(req, res){
-  res.render('index', { title: 'Express' })
-};
 /* GET "some" page. */
 exports.some = function(req, res){
   res.render('index', { title: 'Express' })

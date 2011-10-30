@@ -30,7 +30,6 @@ app.configure('production', function(){
 // Routes
 
 app.get('/', routes.index);
-app.get('/sample', routes.sample);
 app.get('/some', routes.some);
 app.get('/navigation', routes.navigation);
 app.get('/links', routes.links);
