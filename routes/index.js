@@ -10,6 +10,6 @@ exports.index = function(req, res){
  * GET portfolio page.
  */
 
-exports.portfolio = function(req, res){
+exports.sample = function(req, res){
   res.render('index', { title: 'Express' })
 };
