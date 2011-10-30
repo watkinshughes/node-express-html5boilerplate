@@ -1,1 +1,4 @@
-# COMING SOON
+# Coming Soon
+
+- Add error pages 
+
