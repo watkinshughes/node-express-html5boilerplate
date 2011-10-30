@@ -1,4 +1,4 @@
-# Full Roadmap/To do coming soon
+# Full "to do" list coming soon
 
 - Add error pages 
 
