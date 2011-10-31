@@ -7,7 +7,15 @@ See sample app running on Heroku at: [http://severe-sword-2201.heroku.com/](http
 
 # License
 
-Major components:
+-------
+
+Node: See https://github.com/joyent/node
+
+-------
+
+Express: MIT license
+
+-------
 
 HTML5 Boilerplate
 
@@ -21,4 +29,4 @@ Normalize.css: Public Domain
 
 Everything else: The Unlicense (aka: public domain)
 
-More coming soon.
+-------
