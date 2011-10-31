@@ -8,13 +8,12 @@ See sample app running on Heroku at: [http://severe-sword-2201.heroku.com/](http
 # License
 
 Major components:
---------------------
-HTML5 Boilerplate
-- jQuery: MIT/GPL license
-- Modernizr: MIT/BSD license
-- Respond.js: MIT/GPL license
-- Normalize.css: Public Domain
-- Everything else: The Unlicense (aka: public domain)
---------------------
 
-# More coming soon! 
+HTML5 Boilerplate
+* jQuery: MIT/GPL license
+* Modernizr: MIT/BSD license
+* Respond.js: MIT/GPL license
+* Normalize.css: Public Domain
+* Everything else: The Unlicense (aka: public domain)
+
+More coming soon.
