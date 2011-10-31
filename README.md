@@ -31,4 +31,4 @@ Everything else: The Unlicense (aka: public domain)
 
 -------
 
-Initializr: 2 https://github.com/verekia/initializr
+Initializr 2: https://github.com/verekia/initializr
