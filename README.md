@@ -9,7 +9,10 @@ See sample app running on Heroku at: [http://severe-sword-2201.heroku.com/](http
 # Included modules:
 
 Express
+
 Jade
+
+html2jade
 
 -------
 # License
