@@ -1,4 +1,4 @@
 # Full "to do" list coming soon
 
-- Add error pages 
+- Add 404 / error pages  
 

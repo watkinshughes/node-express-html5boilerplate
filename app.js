@@ -34,8 +34,10 @@ app.get('/some', routes.some);
 app.get('/navigation', routes.navigation);
 app.get('/links', routes.links);
 
+
 // app.listen(5000);
 // console.log("Express server listening on port %d in %s mode", app.address().port, app.settings.env);
+
 
 var port = process.env.PORT || 3000;
 app.listen(port, function() {

@@ -5,7 +5,17 @@ This is simply an [Express](http://expressjs.com/) starter app preconfigured to 
 
 See sample app running on Heroku at: [http://severe-sword-2201.heroku.com/](http://severe-sword-2201.heroku.com/)
 
-# License
+
+# Included modules:
+
+Express
+
+Jade
+
+html2jade
+
+
+# Licenses
 
 -------
 

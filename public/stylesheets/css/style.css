@@ -252,6 +252,7 @@ header nav ul li{
 
 nav a{
 	padding:20px;
+	margin: 0 2px;
 	color:white;
 	text-decoration:none;
 	background-color:#e44d26;
