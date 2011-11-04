@@ -14,3 +14,7 @@ exports.navigation = function(req, res){
 exports.links = function(req, res){
   res.render('index', { title: 'Express' })
 };
+/* GET "404" page. */
+exports.lost = function(req, res){
+  res.render('index', { title: 'Lost' })
+};
