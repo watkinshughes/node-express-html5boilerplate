@@ -1,4 +1,4 @@
 # Full "to do" list coming soon
 
-- Add 404 / error pages  
+- Add node-based routing for error pages  
 
