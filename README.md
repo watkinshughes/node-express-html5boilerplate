@@ -5,6 +5,9 @@ This is simply an [Express](http://expressjs.com/) starter app preconfigured to 
 
 See sample app running on Heroku at: [http://severe-sword-2201.heroku.com/](http://severe-sword-2201.heroku.com/)
 
+[http://propercursive.com/](http://propercursive.com/) is built from on top of this project.
+
+
 
 # Included modules:
 
