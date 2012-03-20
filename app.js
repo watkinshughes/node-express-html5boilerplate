@@ -34,7 +34,6 @@ app.get('/', routes.index);
 app.get('/some', routes.some);
 app.get('/navigation', routes.navigation);
 app.get('/links', routes.links);
-app.get('/lost', routes.lost);
 
 
 // app.listen(5000);
